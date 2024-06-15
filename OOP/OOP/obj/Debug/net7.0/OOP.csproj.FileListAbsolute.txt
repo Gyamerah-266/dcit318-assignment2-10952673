@@ -1,0 +1,15 @@
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/bin/Debug/net7.0/OOP
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/bin/Debug/net7.0/OOP.deps.json
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/bin/Debug/net7.0/OOP.runtimeconfig.json
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/bin/Debug/net7.0/OOP.dll
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/bin/Debug/net7.0/OOP.pdb
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/obj/Debug/net7.0/OOP.csproj.AssemblyReference.cache
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/obj/Debug/net7.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/obj/Debug/net7.0/OOP.AssemblyInfoInputs.cache
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/obj/Debug/net7.0/OOP.AssemblyInfo.cs
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/obj/Debug/net7.0/OOP.csproj.CoreCompileInputs.cache
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/obj/Debug/net7.0/OOP.dll
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/obj/Debug/net7.0/refint/OOP.dll
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/obj/Debug/net7.0/OOP.pdb
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/obj/Debug/net7.0/OOP.genruntimeconfig.cache
+/Users/nana/Documents/dcit318 projects/object-oriented programming/dcit318-assignment2-10952673/OOP/OOP/obj/Debug/net7.0/ref/OOP.dll
