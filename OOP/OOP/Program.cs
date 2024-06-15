@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OOPD
+namespace OOP
 {
     class Program
     {
@@ -20,6 +20,12 @@ namespace OOPD
 
             Rectangle rectangle = new Rectangle(4, 7);
             Console.WriteLine($"Area of Rectangle: {rectangle.GetArea()}");
+
+            Car car = new Car();
+            car.Move();
+
+            Bicycle bicycle = new Bicycle();
+            bicycle.Move();
         }
     }
 
@@ -81,6 +87,27 @@ namespace OOPD
         public override double GetArea()
         {
             return width * height;
+        }
+    }
+
+    interface IMovable
+    {
+        void Move();
+    }
+
+    class Car : IMovable
+    {
+        public void Move()
+        {
+            Console.WriteLine("Car is moving");
+        }
+    }
+
+    class Bicycle : IMovable
+    {
+        public void Move()
+        {
+            Console.WriteLine("Bicycle is moving");
         }
     }
 }
